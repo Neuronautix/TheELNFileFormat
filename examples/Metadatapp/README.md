@@ -1,6 +1,6 @@
 # Metadatapp
 
-- Website: https://github.com/Neuronautix/metadatapp
+- Website: https://github.com/Neuronautix/metadatapp-oss
 - Export type: FAIR-by-design biomedical study metadata package
 - Example archive: `metadatapp-dvc-circadian-shank3-demo.eln`
 
