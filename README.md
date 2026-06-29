@@ -37,4 +37,5 @@ Generally working with some quirks here and there.
 | [OpenSemanticLab](https://github.com/OpenSemanticLab)     | ✅          | ✅          | [OpenSemanticLab](https://github.com/TheELNConsortium/TheELNFileFormat/tree/master/examples/OpenSemanticLab) |
 | [SciLog](https://github.com/paulscherrerinstitute/scilog) |             | ✅          | [SciLog](https://github.com/TheELNConsortium/TheELNFileFormat/tree/master/examples/SciLog)                   |
 | [datalab](https://github.com/datalab-org)                 |             | ✅          | [datalab](https://github.com/TheELNConsortium/TheELNFileFormat/tree/master/examples/datalab)                 |
+| [Metadatapp](https://github.com/Neuronautix/metadatapp-oss) |           | ✅          | [Metadatapp](https://github.com/TheELNConsortium/TheELNFileFormat/tree/master/examples/Metadatapp)           |
 
