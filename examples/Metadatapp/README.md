@@ -178,7 +178,7 @@ is proposed upstream.
       "@id": "#metadatapp",
       "@type": "Organization",
       "name": "Metadatapp",
-      "url": "https://github.com/Neuronautix/metadatapp"
+      "url": "https://github.com/Neuronautix/metadatapp-oss"
     },
     {
       "@id": "./code/analysis-019eb5e2-115f-771e-84da-64b9006a139b.jsonld",
